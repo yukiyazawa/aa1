@@ -72,19 +72,9 @@ p{
   float:right;
 }
 
-
-border_radius {
-    border-radius: 20px;
-    -webkit-border-radius: 20px;
-    -moz-border-radius: 20px;
-}
-
-
-
 section {
   margin-bottom: 35px;
 }
-
 
 h1 {
   text-align:center;
