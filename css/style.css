@@ -72,11 +72,13 @@ p{
   float:right;
 }
 
-image:url("https://yukiyazawa.github.io/aa1/ru.png");{
-  width:300px;
-  height:300px;
-border-radius: 30px;
+
+border_radius {
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
 }
+
 
 
 section {
