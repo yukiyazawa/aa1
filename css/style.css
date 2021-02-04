@@ -72,17 +72,12 @@ p{
   float:right;
 }
 
-image:url("https://yukiyazawa.github.io/aa1/ru.png"){
+image:url("https://yukiyazawa.github.io/aa1/ru.png");{
   width:300px;
   height:300px;
 border-radius: 30px;
 }
 
-image:url("https://yukiyazawa.github.io/aa1/ad.png"){
-  width:300px;
-  height:300px;
-border-radius: 30px;
-}
 
 section {
   margin-bottom: 35px;
