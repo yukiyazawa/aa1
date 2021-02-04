@@ -13,8 +13,13 @@ p,h1,h2,h3{
   margin-top: 0;
 }
 
-a{
+a1{
   color: white;
+  text-decoration: none;
+}
+
+a2{
+  color:black;
   text-decoration: none;
 }
 
